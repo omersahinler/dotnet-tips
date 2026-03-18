@@ -1,2 +1,15 @@
 # dotnet-tips
-.NET tips and code examples from my LinkedIn posts — caching, performance, microservices
+
+Code examples from my LinkedIn posts.
+Each folder matches a post — real code, no fluff.
+
+## Contents
+
+| Topic | Code |
+|-------|------|
+| HybridCache vs IMemoryCache | [/hybridcache-vs-imemorycache](/hybridcache-vs-imemorycache) |
+| IEnumerable vs IQueryable | [/ienumerable-vs-iqueryable](/ienumerable-vs-iqueryable) |
+| Minimal API vs Controller | [/minimal-api-vs-controller](/minimal-api-vs-controller) |
+
+## Connect
+LinkedIn: [Ömer Şahinler](https://www.linkedin.com/in/ömer-şahinler-49a065180)
